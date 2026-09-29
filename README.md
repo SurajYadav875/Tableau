@@ -171,7 +171,7 @@ The design focuses on **clarity, usability, and executive-level decision support
 
 
 
-👤 Author
+### Author
 Suraj Yadav
 Data Analyst | Tableau Developer
 Skills:
