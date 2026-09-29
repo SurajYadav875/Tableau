@@ -1,1 +1,1 @@
-
+A professional RegTech dashboard designed to provide end-to-end visibility into regulatory performance, client activity, compliance, and operational workflows. It includes executive KPIs, query trends, SLA compliance, revenue analysis, regulatory amendments, agency activity, workflow status, task priorities, and client-level insights. Interactive filters and navigation enable users to drill down by year, institution, subscription tier, agency, compliance area, and priority for faster, data-driven decision-making.
