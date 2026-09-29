@@ -1,0 +1,51 @@
+ZIP Code,Region,State,Nation,Territory ID,Territory Name,Region ID,Region Name,Area ID,Area Name,Nation ID,Nation Name
+12459,East,New York,USA,T_NEW,New York Territory,R001,East,A_NEW,New York,N001,United States
+50310,East,Massachusetts,USA,T_MAS,Massachusetts Territory,R001,East,A_MAS,Massachusetts,N001,United States
+85978,East,New Jersey,USA,T_NEW,New Jersey Territory,R001,East,A_NEW,New Jersey,N001,United States
+15888,East,Pennsylvania,USA,T_PEN,Pennsylvania Territory,R001,East,A_PEN,Pennsylvania,N001,United States
+51950,East,Connecticut,USA,T_CON,Connecticut Territory,R001,East,A_CON,Connecticut,N001,United States
+65228,East,Rhode Island,USA,T_RHO,Rhode Island Territory,R001,East,A_RHO,Rhode Island,N001,United States
+40578,East,Vermont,USA,T_VER,Vermont Territory,R001,East,A_VER,Vermont,N001,United States
+20227,East,New Hampshire,USA,T_NEW,New Hampshire Territory,R001,East,A_NEW,New Hampshire,N001,United States
+64903,East,Maine,USA,T_MAI,Maine Territory,R001,East,A_MAI,Maine,N001,United States
+94151,West,California,USA,T_CAL,California Territory,R002,West,A_CAL,California,N001,United States
+64660,West,Washington,USA,T_WAS,Washington Territory,R002,West,A_WAS,Washington,N001,United States
+41965,West,Oregon,USA,T_ORE,Oregon Territory,R002,West,A_ORE,Oregon,N001,United States
+41605,West,Nevada,USA,T_NEV,Nevada Territory,R002,West,A_NEV,Nevada,N001,United States
+68631,West,Utah,USA,T_UTA,Utah Territory,R002,West,A_UTA,Utah,N001,United States
+71531,West,Arizona,USA,T_ARI,Arizona Territory,R002,West,A_ARI,Arizona,N001,United States
+56821,West,Alaska,USA,T_ALA,Alaska Territory,R002,West,A_ALA,Alaska,N001,United States
+59451,West,Hawaii,USA,T_HAW,Hawaii Territory,R002,West,A_HAW,Hawaii,N001,United States
+65491,West,Idaho,USA,T_IDA,Idaho Territory,R002,West,A_IDA,Idaho,N001,United States
+56309,West,Montana,USA,T_MON,Montana Territory,R002,West,A_MON,Montana,N001,United States
+88661,West,Wyoming,USA,T_WYO,Wyoming Territory,R002,West,A_WYO,Wyoming,N001,United States
+55311,West,Colorado,USA,T_COL,Colorado Territory,R002,West,A_COL,Colorado,N001,United States
+51676,West,New Mexico,USA,T_NEW,New Mexico Territory,R002,West,A_NEW,New Mexico,N001,United States
+61898,North,Illinois,USA,T_ILL,Illinois Territory,R003,North,A_ILL,Illinois,N001,United States
+48541,North,Michigan,USA,T_MIC,Michigan Territory,R003,North,A_MIC,Michigan,N001,United States
+89123,North,Minnesota,USA,T_MIN,Minnesota Territory,R003,North,A_MIN,Minnesota,N001,United States
+22606,North,Wisconsin,USA,T_WIS,Wisconsin Territory,R003,North,A_WIS,Wisconsin,N001,United States
+89717,North,North Dakota,USA,T_NOR,North Dakota Territory,R003,North,A_NOR,North Dakota,N001,United States
+25799,North,South Dakota,USA,T_SOU,South Dakota Territory,R003,North,A_SOU,South Dakota,N001,United States
+53544,North,Nebraska,USA,T_NEB,Nebraska Territory,R003,North,A_NEB,Nebraska,N001,United States
+73611,North,Iowa,USA,T_IOW,Iowa Territory,R003,North,A_IOW,Iowa,N001,United States
+84802,North,Indiana,USA,T_IND,Indiana Territory,R003,North,A_IND,Indiana,N001,United States
+45472,North,Ohio,USA,T_OHI,Ohio Territory,R003,North,A_OHI,Ohio,N001,United States
+76313,South,Texas,USA,T_TEX,Texas Territory,R004,South,A_TEX,Texas,N001,United States
+33772,South,Florida,USA,T_FLO,Florida Territory,R004,South,A_FLO,Florida,N001,United States
+30733,South,Georgia,USA,T_GEO,Georgia Territory,R004,South,A_GEO,Georgia,N001,United States
+47207,South,Alabama,USA,T_ALA,Alabama Territory,R004,South,A_ALA,Alabama,N001,United States
+80741,South,Mississippi,USA,T_MIS,Mississippi Territory,R004,South,A_MIS,Mississippi,N001,United States
+47307,South,Louisiana,USA,T_LOU,Louisiana Territory,R004,South,A_LOU,Louisiana,N001,United States
+59287,South,Arkansas,USA,T_ARK,Arkansas Territory,R004,South,A_ARK,Arkansas,N001,United States
+70498,South,Tennessee,USA,T_TEN,Tennessee Territory,R004,South,A_TEN,Tennessee,N001,United States
+68164,South,Kentucky,USA,T_KEN,Kentucky Territory,R004,South,A_KEN,Kentucky,N001,United States
+86572,South,South Carolina,USA,T_SOU,South Carolina Territory,R004,South,A_SOU,South Carolina,N001,United States
+28346,South,North Carolina,USA,T_NOR,North Carolina Territory,R004,South,A_NOR,North Carolina,N001,United States
+83308,South,Virginia,USA,T_VIR,Virginia Territory,R004,South,A_VIR,Virginia,N001,United States
+42980,South,West Virginia,USA,T_WES,West Virginia Territory,R004,South,A_WES,West Virginia,N001,United States
+20360,South,Oklahoma,USA,T_OKL,Oklahoma Territory,R004,South,A_OKL,Oklahoma,N001,United States
+26980,South,Kansas,USA,T_KAN,Kansas Territory,R004,South,A_KAN,Kansas,N001,United States
+85558,South,Missouri,USA,T_MIS,Missouri Territory,R004,South,A_MIS,Missouri,N001,United States
+70257,South,Maryland,USA,T_MAR,Maryland Territory,R004,South,A_MAR,Maryland,N001,United States
+63103,South,Delaware,USA,T_DEL,Delaware Territory,R004,South,A_DEL,Delaware,N001,United States
